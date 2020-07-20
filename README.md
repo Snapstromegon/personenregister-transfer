@@ -19,7 +19,7 @@ Kommandozeile **nicht** schließen, diese wird zum Ausführen benötigt (erneute
 
 ## Konfiguration
 
-In der "config.js" im entpackten Quelltext die zeile ```export const inputFolder = '.';``` so ändern, dass statt ```.``` dort ```Pfad/zu/den/docx/``` steht (egal ob "\" oder "/"). Wichtig: Dieser Pfad muss ein Ordner sein!
+In der "config.js" im entpackten Quelltext die zeile ```export const inputFolder = '.';``` so ändern, dass statt ```.``` dort ```Pfad/zu/den/docx/``` steht (egal ob "\\" oder "/"). Wichtig: Dieser Pfad muss ein Ordner sein!
 
 ## Ausführen
 
